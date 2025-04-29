@@ -1,3 +1,17 @@
+NAME : AAKINA LAKSHMI PRADEEP
+
+COMPANY : CODTECH IT SOLUTIONS
+
+INTERN ID :CT06WR16
+
+DOMAIN :Cyber Security & Ethical Hacking
+
+DURATION : MARCH 25th, 2025 to MAY 10th, 2025 (6 WEEKS)
+
+MENTOR : NEELA SANTHOSH
+
+OVERVIEW : ADVANCED ENCRYPTION TOOL
+
 Certainly! Here's a more detailed breakdown of how this encryption tool works, explaining the underlying concepts, the components used, and potential improvements:
 
 ### **1. Overview of AES-256 Encryption**
